@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/victormogue/prueba Telxius/_apis/build/status/Vimogue.pruebaPipelines?branchName=master)](https://dev.azure.com/victormogue/prueba Telxius/_build/latest?definitionId=1&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
